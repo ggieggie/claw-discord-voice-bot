@@ -420,7 +420,7 @@ function bargeIn() {
 
 async function processResponse(text, member) {
   isProcessing = true;
-  let waitTimer = null;
+  var waitTimer = null;
   try {
   const llmStart = Date.now();
   let firstChunkTime = 0;
