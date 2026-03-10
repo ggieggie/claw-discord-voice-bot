@@ -16,6 +16,7 @@
     "openai": "^6.21.0",
     "opusscript": "^0.0.8",
     "sodium-native": "^5.1.0",
-    "ws": "^8.19.0"
+    "ws": "^8.19.0",
+    "@discordjs/opus": "^0.10.0"
   }
 }
